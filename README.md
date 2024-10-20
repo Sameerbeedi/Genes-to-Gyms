@@ -26,5 +26,27 @@ This script is used to test and evaluate the performance of the trained model. I
 
 ## How to Run the Project
 1. Clone the repository to your local machine:
-  git clone (https://github.com/Sameerbeedi/Genes-to-Gyms)
+  git clone https://github.com/Sameerbeedi/Genes-to-Gyms
+2. Navigate to the project directory:
+  cd Genes-to-Gyms
+3.Run the preprocessing script to prepare the data:
+  python preeprocess.py
+4. Train the model using the `train.py` script:
+  python train.py
+5. Test the model's performance using the `test.py` script:
+  python test.py
+
+## Dependencies
+Ensure that the following Python libraries are installed:
+- `pandas`
+- `numpy`
+- `scikit-learn`
+- `tensorflow`
+- `keras`
+
+Install dependencies using:
+pip install -r requirements.txt
+
+## Contribution
+Feel free to contribute to the project by raising issues or submitting pull requests. Make sure to follow the coding guidelines and provide appropriate documentation for any new features or bug fixes.
 
