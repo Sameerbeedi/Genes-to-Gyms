@@ -25,7 +25,7 @@ This script is used to test and evaluate the performance of the trained model. I
 - **Genetic Data**: Contains genetic information of individuals, used for training and testing the model.
 
 ## How to Run the Project
-1. Clone the repository to your local machine:
+1. Clone the repository to your local machine:<br>
   git clone https://github.com/Sameerbeedi/Genes-to-Gyms.git
 
 2. Navigate to the project directory:
