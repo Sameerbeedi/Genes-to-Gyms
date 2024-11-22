@@ -29,10 +29,10 @@ This script is used to test and evaluate the performance of the trained model. I
   git clone https://github.com/Sameerbeedi/Genes-to-Gyms.git
 
 2. Navigate to the project directory:<br>
-  cd Genes-to-Gyms
+  `cd Genes-to-Gyms`
 
  3.Run the preprocessing script to prepare the data:<br>
-  python preeprocess.py
+  `python preeprocess.py`
 
 4. Train the model using the `train.py` script:<br>
   python train.py
